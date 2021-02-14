@@ -38,13 +38,16 @@ experience:
     date_end: '2020-12-31'
     description: 
     
-  - title: Researcher Industrial Decarbonisation Pathways
+  - title: Researcher Energy and Climate
     company: PBL Netherlands Environmental Assessment Agency
     company_url: ''
-    location: The Hague, The Netherlands
+    location: Bilthoven, The Netherlands
     date_start: '2014-06-01'
     date_end: '2019-12-31'
-    description:   
+    description:   |2-
+      Responsibilities included:
+      * PATHWAYS project
+      * REINVENT project
         
   - title: Researcher Global Change Modelling
     company: Utrecht University
