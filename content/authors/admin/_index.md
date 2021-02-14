@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Macro-Energy System Analysis
       institution: Utrecht University
-      year: 2016
+      year: 2017
     - course: MSc in Environmental Sciences (Energy & Resources)
       institution: Utrecht University
       year: 2011
