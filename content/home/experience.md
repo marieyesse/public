@@ -37,5 +37,5 @@ experience:
     date_start: 2012-05-14
     date_end: 2014-05-30
     description: null
-widget_id: about
+widget_id: Biography
 ---
