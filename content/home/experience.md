@@ -22,24 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Researcher Energy & Resources
+    company: PBL Netherlands Environmental Assessment Agency
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: The Hague, The Netherlands
+    date_start: '2021-03-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Researcher Industrial Decarbonisation Pathways
+    company: Lund University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Lund, Sweden
+    date_start: '2020-01-01'
+    date_end: '2020-12-31'
+    description: 
+    
+  - title: Researcher Industrial Decarbonisation Pathways
+    company: PBL Netherlands Environmental Assessment Agency
+    company_url: ''
+    location: The Hague, The Netherlands
+    date_start: '2014-06-01'
+    date_end: '2019-12-31'
+    description:   
+        
+  - title: Researcher Global Change Modelling
+    company: Utrecht University
+    company_url: ''
+    location: Utrecht, The Netherlands
+    date_start: '2012-05-14'
+    date_end: '2014-05-30'
+    description:   
+    
 ---
