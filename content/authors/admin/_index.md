@@ -1,7 +1,7 @@
 ---
 title: Mariësse van Sluisveld
 role: Researcher Energy & Resources
-avatar_filename: https://pbs.twimg.com/profile_images/1221920966298808321/UlG1TMT2_400x400.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Scenario evaluation
