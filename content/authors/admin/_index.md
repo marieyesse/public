@@ -15,6 +15,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/marieyesse
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.nl/citations?user=kZoVZGYAAAAJ&hl=nl
@@ -24,6 +26,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mariessevansluisveld
+    display:
+      header: true
 organizations:
   - name: PBL Netherlands Environmental Assessment Agency
     url: https://www.pbl.nl
