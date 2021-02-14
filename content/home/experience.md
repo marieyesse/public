@@ -26,10 +26,7 @@ experience:
     location: Bilthoven, The Netherlands
     date_start: 2014-06-01
     date_end: 2019-12-31
-    description: |-
-      Responsibilities included:
-      * PATHWAYS project
-      * REINVENT project
+    description: 
   - title: Researcher Global Change Modelling
     company: Utrecht University
     company_url: ""
