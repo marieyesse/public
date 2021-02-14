@@ -26,7 +26,7 @@ experience:
     location: Bilthoven, The Netherlands
     date_start: 2014-06-01
     date_end: 2019-12-31
-    description: 
+    description: null
   - title: Researcher Global Change Modelling
     company: Utrecht University
     company_url: ""
@@ -34,5 +34,5 @@ experience:
     date_start: 2012-05-14
     date_end: 2014-05-30
     description: null
-widget_id: Biography
+widget_id: about
 ---
