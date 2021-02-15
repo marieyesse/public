@@ -26,7 +26,6 @@ design:
     text_color_light: false
   spacing:
     padding: ["50px", "0", "50px", "0"]
+
+  #  {{< figure library="true" src="small_avatar.JPG"  width="400px" position="right"  >}}
 ---
-
-
-{{< figure library="true" src="small_avatar.JPG"  width="400px" class="about-right"  >}}
