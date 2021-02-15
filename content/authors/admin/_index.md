@@ -47,6 +47,6 @@ highlight_name: false
 
 Dr. Mariësse van Sluisveld is a researcher with extensive knowledge of energy and climate policy assessment in line with global climate agreements. She has expertise in quantitative computational modelling, scenario and data analysis and data visualization. Her specialty is defining and testing the plausibility of quantitative scenarios and metrics on systems change.
 
-Currently her research is focused on monitoring the energy and material transitions along the European Green Deal aspirations in Europe. Subsequently she is deputy coordinator of the Dutch research consortium on the circular economy. 
+Currently her research is focused on monitoring energy and material transitions along the European Green Deal aspirations in Europe. Subsequently she is deputy coordinator of the Dutch research consortium on the circular economy. 
 
 <!--EndFragment-->
