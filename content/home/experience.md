@@ -13,7 +13,7 @@ experience:
     date_start: 2021-03-01
     date_end: ""
     description: null
-  - title: Researcher Industrial Decarbonisation Pathways
+  - title: Researcher Low-carbon Industry
     company: Lund University
     company_url: ""
     location: Lund, Sweden
