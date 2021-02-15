@@ -2,6 +2,7 @@
 widget: contact
 widget_id: about
 headless: true
+active: false
 weight: 120
 title: Contact
 subtitle: null
