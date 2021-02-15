@@ -2,18 +2,18 @@
 widget: contact
 widget_id: about
 headless: true
-active: false
+
 weight: 120
 title: Contact
 subtitle: null
 content:
   autolink: true
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
+#  form:
+#    provider: netlify
+#    formspree:
+#      ? id
+#    netlify:
+#      captcha: false
 design:
   columns: "2"
 ---
