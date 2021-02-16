@@ -37,4 +37,8 @@ In this dissertation, three perspectives have been systematically compared to id
 
 The dissertation concludes that a broader perspective on future system change allows a more critical appraisal of the considered future opportunities and challenges in a disciplinary field. Overall agreement between the various perspectives has been found for the 2°C development trajectory for wind power towards 2050, whereas differences in perspective have been revealed for other (energy) technologies, particularly nuclear power, bioelectricity and carbon capture and storage. However, in order to come to a more holistic view on future system change in line with the 2°C climate objective, further research may focus on broadening the scope of assessment. Considered avenues are the inclusion of a broader system view, greater engagement with other fields of research and the development of alternative transition pathways.
 
+
+
+Full thesis can be accessed at: <http://dspace.library.uu.nl/handle/1874/350885>
+
 <!--EndFragment-->
