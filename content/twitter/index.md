@@ -14,6 +14,6 @@ header:
   image: ""
 ---
 
-My latest discussion topics, interesting reads or announcements (via Twitter):
+This page features my latest discussion topics, interesting reads or announcements (via Twitter).
 
 <a class="twitter-timeline" href="https://twitter.com/marieyesse?ref_src=twsrc%5Etfw">Tweets by marieyesse</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
