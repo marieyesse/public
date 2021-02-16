@@ -1,7 +1,6 @@
 ---
-title: 2°C through different lensen - Evaluating long-term energys ystem change
-  for a 2°C-constrained world
-subtitle: ""
+title: "2°C through different lenses "
+subtitle: Evaluating long-term energy system change for a 2°C-constrained world
 publication_types:
   - "7"
 authors:
@@ -9,7 +8,7 @@ authors:
 publication: ""
 abstract: ""
 draft: false
-featured: false
+featured: true
 tags: []
 categories: []
 projects: []
