@@ -6,7 +6,7 @@ title: Low-carbon energy scenarios in north-west European countries - Report of 
 subtitle: ''
 summary: ''
 authors:
-- M.A.E. van Sluisveld
+- admin
 - P. Boot
 - P. Hammingh
 - J. Notenboom

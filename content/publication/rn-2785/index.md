@@ -6,7 +6,7 @@ title: Comparing future patterns of energy system change in 2 °C scenarios with
 subtitle: ''
 summary: ''
 authors:
-- Mariësse A. E. van Sluisveld
+- admin
 - J. H. M. Harmsen
 - Nico Bauer
 - David L. McCollum

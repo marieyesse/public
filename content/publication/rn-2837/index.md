@@ -6,7 +6,7 @@ title: Exploring the implications of lifestyle change in 2 °C mitigation scenar
 subtitle: ''
 summary: ''
 authors:
-- Mariësse A. E. van Sluisveld
+- admin
 - Sara Herreras Martínez
 - Vassilis Daioglou
 - Detlef P. van Vuuren

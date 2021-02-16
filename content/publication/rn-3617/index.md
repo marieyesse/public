@@ -8,7 +8,7 @@ authors:
 - E. De Cian
 - S. Dasgupta
 - A. F. Hof
-- M. A. E. van Sluisveld
+- admin
 - J. Köhler
 - B. Pfluger
 - D. P. van Vuuren

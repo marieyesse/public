@@ -5,7 +5,7 @@ title: A multi-model analysis of post-2020 mitigation efforts of five major econ
 subtitle: ''
 summary: ''
 authors:
-- M.A.E. van Sluisveld
+- admin
 - David EHJ Gernaat
 - Shuichi Ashina
 - Katherine V Calvin

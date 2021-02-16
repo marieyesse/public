@@ -6,7 +6,7 @@ title: 'Low-carbon strategies towards 2050: Comparing ex-ante policy evaluation 
 subtitle: ''
 summary: ''
 authors:
-- Mariësse A. E. van Sluisveld
+- admin
 - Andries F. Hof
 - Detlef P. van Vuuren
 - Pieter Boot
