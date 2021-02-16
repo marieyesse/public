@@ -18,15 +18,16 @@ image:
   focal_point: ""
   preview_only: false
   filename: phd_cover.jpg
-summary: On 4 July PBL researcher Mariësse van Sluisveld obtained her PhD at
-  Utrecht University. The main conclusion of her research is that, in order to
-  stay well below the 2°C climate objective, combining different sources of
-  knowledge is essential.
+summary: ""
 lastmod: 2021-02-15T14:00:39+01:00
 date: 2017-07-03T22:00:00.000Z
 publishDate: 2021-02-15T13:00:38.431898Z
 ---
 <!--StartFragment-->
+
+![](phd_cover.jpg)
+
+On 4 July researcher Mariësse van Sluisveld obtained her PhD at Utrecht University. The main conclusion of her research is that, in order to stay well below the 2°C climate objective, combining different sources of knowledge is essential.
 
 The 2015 United Nations Climate Change Conference in Paris (COP21) agreed upon limiting global mean temperature increase to less than 2°C compared to pre-industrial levels and pursue efforts towards limiting temperature increase to 1.5°C. Policymakers that face this climate objective are confronted with difficult questions about how this goal can be achieved. Several fields of research, methods and tools are available to help shape our understanding of the needed change to attain the above-mentioned climate objective, including the use of historical references to draw lessons from the past for the future, expert knowledge on current trends and future transition routes and model-based scenarios that allow to explore different future pathways under specific conditions and climate policies.  
 
