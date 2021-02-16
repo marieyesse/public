@@ -24,7 +24,7 @@ publishDate: 2021-02-15T13:00:38.431898Z
 ---
 <!--StartFragment-->
 
-![](phd_cover.jpg)
+![]()
 
 On 4 July researcher Mariësse van Sluisveld obtained her PhD at Utrecht University. The main conclusion of her research is that, in order to stay well below the 2°C climate objective, combining different sources of knowledge is essential.
 
