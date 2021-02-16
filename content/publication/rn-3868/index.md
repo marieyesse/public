@@ -39,15 +39,16 @@ abstract: 'In this deliverable a set of long-term strategies to decarbonise four
 publication: ''
 ---
 
-- **Total net decarbonisation by 2050 is considered feasible under specific future conditions for the four selected manufacturing sectors.**
+**Key take-away messages:**
+- Total net decarbonisation by 2050 is considered feasible under specific future conditions for the four selected manufacturing sectors.
 
-- **Strategies on the full decarbonisation of industry require embedment into a broader systems view to remain aligned to the Paris Agreement**
+- Strategies on the full decarbonisation of industry require embedment into a broader systems view to remain aligned to the Paris Agreement
 
-- **The potential for emission reduction in the pulp and paper industry is huge, with bioenergy and CCS and electrification as important strategies**
+- The potential for emission reduction in the pulp and paper industry is huge, with bioenergy and CCS and electrification as important strategies
 
-- **In the plastics industry, closing of carbon cycles is a promising route for decarbonisation, next to improving efficiency and CCS**
+- In the plastics industry, closing of carbon cycles is a promising route for decarbonisation, next to improving efficiency and CCS
 
-- **Decarbonisation of the steel sector strongly depends on CCS and/or a switch from cokes to hydrogen as a reducing agent**
+- Decarbonisation of the steel sector strongly depends on CCS and/or a switch from cokes to hydrogen as a reducing agent
 
-- **Biomass is projected to play an important role in the decarbonisation of the food processing sector, but alternatives have not yet been analysed in detail**
+- Biomass is projected to play an important role in the decarbonisation of the food processing sector, but alternatives have not yet been analysed in detail
 
